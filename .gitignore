@@ -93,3 +93,9 @@ vscode
 
 # QtCreator
 CMakeLists.txt.user
+
+#temporary
+*~
+
+#kdev4 project
+.kdev4/
